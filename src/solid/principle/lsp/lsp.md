@@ -1,0 +1,2 @@
+Liskov substitution principle says that superclass and subclass should be exchangeable without breaking client. Subclass should not introduce new Exception of its own which doesn't exists in super class.
+It is exyension OCP factory design pattern works on this principle
